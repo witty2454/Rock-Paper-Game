@@ -1,0 +1,7 @@
+C:\Users\19405\source\repos\Rock, Paper, Game\Rock, Paper, Game\obj\Debug\Rock, Paper, Game.csprojAssemblyReference.cache
+C:\Users\19405\source\repos\Rock, Paper, Game\Rock, Paper, Game\obj\Debug\Rock, Paper, Game.csproj.CoreCompileInputs.cache
+C:\Users\19405\source\repos\Rock, Paper, Game\Rock, Paper, Game\bin\Debug\Rock, Paper, Game.exe.config
+C:\Users\19405\source\repos\Rock, Paper, Game\Rock, Paper, Game\bin\Debug\Rock, Paper, Game.exe
+C:\Users\19405\source\repos\Rock, Paper, Game\Rock, Paper, Game\bin\Debug\Rock, Paper, Game.pdb
+C:\Users\19405\source\repos\Rock, Paper, Game\Rock, Paper, Game\obj\Debug\Rock, Paper, Game.exe
+C:\Users\19405\source\repos\Rock, Paper, Game\Rock, Paper, Game\obj\Debug\Rock, Paper, Game.pdb
