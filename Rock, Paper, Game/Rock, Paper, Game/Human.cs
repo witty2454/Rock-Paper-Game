@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Rock__Paper__Game
 {
-    class Human
+    class Human : Player
     {
         //member varibles (can do)
         string PlayerName;
-        int PlayerScore;
+        
 
         //constuctor
         public Human()
@@ -18,6 +18,10 @@ namespace Rock__Paper__Game
             Console.WriteLine("Enter your name?");
             this.PlayerName = Console.ReadLine();
 
+        }
+
+        public void PickGesture(){
+            Console.WriteLine("Human");
         }
         
         //member methods (has a)

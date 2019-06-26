@@ -6,19 +6,29 @@ using System.Threading.Tasks;
 
 namespace Rock__Paper__Game
 {
-    //class Player
+    class Player
+    {
+
    
     //    //member varibles (can do)
-       
+      
 
 
     //    //constuctor
 
 
     //    //member methods (has a)
-    //    public 
+        public virtual void PickGesture()
+        { 
+            
+            Console.WriteLine("Player");
+            
+
+
+        }
 
 
 
+    }
     
 }

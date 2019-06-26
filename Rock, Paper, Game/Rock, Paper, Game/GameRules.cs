@@ -34,6 +34,7 @@ namespace Rock__Paper__Game
             
             {
                 Console.WriteLine(item);
+                Console.ReadLine();
             }
         }
     }
