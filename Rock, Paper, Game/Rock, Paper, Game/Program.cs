@@ -10,19 +10,8 @@ namespace Rock__Paper__Game
     {
         static void Main(string[] args)
         {
-            //member varibles (can do)
-
-
-            //constuctor
-
-            GameRules gameRules = new GameRules();
-            gameRules.DisplayRules();
-            Player human = new Human();
-            human.PickGesture();
-            Console.ReadLine();
-
-              
-            //member methods (has a)
+           
         }
+
     }
 }

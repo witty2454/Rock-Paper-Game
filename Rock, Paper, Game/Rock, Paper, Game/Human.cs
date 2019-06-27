@@ -6,26 +6,26 @@ using System.Threading.Tasks;
 
 namespace Rock__Paper__Game
 {
-    class Human : Player
-    {
+    //class Human : Player
+    //{
         //member varibles (can do)
-        string PlayerName;
+        //string PlayerName;
         
 
         //constuctor
-        public Human()
-        {
-            Console.WriteLine("Enter your name?");
-            this.PlayerName = Console.ReadLine();
+        //public Human()
+        //{
+            //Console.WriteLine("Enter your name?");
+          //  this.PlayerName = Console.ReadLine();
 
-        }
+        //}
 
-        public void PickGesture(){
-            Console.WriteLine("Human");
-        }
+        //public void PickGesture(){
+          //  Console.WriteLine("Human");
+        //}
         
         //member methods (has a)
 
        
     }
-}
+

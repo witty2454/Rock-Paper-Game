@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Rock__Paper__Game
 {
-    class Player
-    {
+    //class Player
+    //{
 
    
     //    //member varibles (can do)
@@ -18,17 +18,17 @@ namespace Rock__Paper__Game
 
 
     //    //member methods (has a)
-        public virtual void PickGesture()
-        { 
+       // public virtual void PickGesture()
+       // { 
             
-            Console.WriteLine("Player");
+         //   Console.WriteLine("Player");
             
 
 
-        }
+        //}
 
 
 
     }
     
-}
+
