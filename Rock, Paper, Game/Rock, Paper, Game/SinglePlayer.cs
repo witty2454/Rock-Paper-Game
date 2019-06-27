@@ -124,7 +124,8 @@ namespace Rock__Paper__Game
                 default:
                     Console.WriteLine("Invaild Entry");
                 break;
-                }
+            }
+                    Console.WriteLine("\n\nScores:\tPlayer\t{0}",scorePlayer, scoreCPU);
             }
             if (scorePlayer == 2)
                 {
@@ -139,6 +140,7 @@ namespace Rock__Paper__Game
                 if(loop == "yes")
                     {
                         playAgain = true;
+                        Console.Clear();
                     }   
                 else if (loop == "no")
                     {   
